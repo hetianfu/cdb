@@ -1,0 +1,20 @@
+
+{"amount":1,"channel_id":93,"mch_id":465,"notify_url":"","order_sn":"DF164482744597028","payer_account":"1322131","payer_ifsc":"ifsc1001","payer_name":"12312","sign":"c8233288d2f96a98128d0eaf264318d7"}
+返回数据new==000=
+https://api.ruspay.net/api/Pay/addPayOut
+
+{"amount":18000,"channel_id":93,"mch_id":465,"notify_url":"","order_sn":"DF163369169638930","payer_account":"43905833401013","payer_ifsc":"ifsc1001","payer_name":"Rakesh kumar","sign":"9024603a73f9ecc2d65fa0c7b5a8f986"}
+返回数据new==000=
+https://api.ruspay.net/api/Pay/addPayOut
+
+{"amount":18000,"channel_id":93,"mch_id":465,"notify_url":"","order_sn":"DF163369169638930","payer_account":"43905833401013","payer_ifsc":"ifsc1001","payer_name":"Rakesh kumar","sign":"9024603a73f9ecc2d65fa0c7b5a8f986"}
+返回数据new==000=
+https://api.ruspay.net/api/Pay/addPayOut
+
+{"amount":1,"channel_id":"93","mch_id":"465","notify_url":"http:\/\/cdb.yunchaun.info\/dingadmin\/Withdrawal\/xf","order_sn":"DF164482744597028","payer_account":"1322131","payer_ifsc":"ifsc1001","payer_name":"12312","sign":"0861384ef5176da211c052863200292f"}
+返回数据new==000=
+https://api.ruspay.net/api/Pay/addPayOut
+
+{"amount":1,"channel_id":"93","mch_id":"465","notify_url":"http:\/\/cdb.yunchaun.info\/dingadmin\/Withdrawal\/xf","order_sn":"DF164482744597028","payer_account":"1322131","payer_ifsc":"ifsc1001","payer_name":"12312","sign":"0861384ef5176da211c052863200292f"}
+返回数据new==000=
+https://api.ruspay.net/api/Pay/addPayOut
